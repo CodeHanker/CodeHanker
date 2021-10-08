@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @CodeHanker
 - 👀 I’m interested in Coding.
-- 🌱 I’m currently learning Microservices
+- 🌱 I’m currently learning Microservices and ML
 - 💞️ I’m looking to collaborate on innovative projects
 - 📫 How to reach me at hanker4code@gmail.com
 
